@@ -1,0 +1,5 @@
+com\usuario\empresa\web\vitivinicolaubb\entidades\Usuario.class
+com\usuario\empresa\web\vitivinicolaubb\servicios\UsuarioService.class
+com\usuario\empresa\web\vitivinicolaubb\controladores\UsuarioController.class
+com\usuario\empresa\web\vitivinicolaubb\servicios\ServiceImpl.class
+com\usuario\empresa\web\vitivinicolaubb\controladores\InicioController.class
